@@ -9,5 +9,5 @@ User need to enter number of rows and cols of matrix
 <hr>
 
 
-<img src="https://github.com/codeasarjun/matrix_calculator/blob/main/img/matrix_output2.png"><br>
+
 <hr>
