@@ -3,7 +3,7 @@ Application is able to find the rank of matrix and other related calculation of 
 
 <img src="https://github.com/codeasarjun/matrix_calculator/blob/main/img/matrix_home.png"><br>
 User need to enter number of rows and cols of matrix 
-<hr>
+<hr> 
 
 <img src="https://github.com/codeasarjun/matrix_calculator/blob/main/img/matrix_output.png"><br>
 <hr>
